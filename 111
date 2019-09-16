@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am alexippo on github.
+  * I am alexippo (https://keybase.io/alexippo) on keybase.
+  * I have a public key ASCBLtklhDUPolJcUcgCiUsAkxLEwm3Y4KaXlth3PZA9iwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120812ed92584350fa2525c51c802894b009312c4c26dd8e0a69796d8773d903d8b0a",
+      "host": "keybase.io",
+      "kid": "0120812ed92584350fa2525c51c802894b009312c4c26dd8e0a69796d8773d903d8b0a",
+      "uid": "a3304304fdb136e9c304dcaa8e5d0519",
+      "username": "alexippo"
+    },
+    "merkle_root": {
+      "ctime": 1568663554,
+      "hash": "e7bbaf156f91ab1d3cd216b39d8e7f7d7539cfe905bfcfc3c41c06610bb2d73221808504b50ea7c8ffd08a083d6f2202df4ff4aeded1f327b2d2cc771873cdad",
+      "hash_meta": "d372fa4d58bf7c91ab034b5ece7e2ef80783222185fb2af3f2146e0f16886727",
+      "seqno": 7486807
+    },
+    "service": {
+      "entropy": "6jJpr/SqB3zRX+BxIVf4IK9+",
+      "name": "github",
+      "username": "alexippo"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568663560,
+  "expire_in": 504576000,
+  "prev": "e7f1bedf21944ff42d6d91710dae7ff223f9e0f6799c288330d548e9afd0db04",
+  "seqno": 12,
+  "tag": "signature"
+}
+```
+
+with the key [ASCBLtklhDUPolJcUcgCiUsAkxLEwm3Y4KaXlth3PZA9iwo](https://keybase.io/alexippo), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggS7ZJYQ1D6JSXFHIAolLAJMSxMJt2OCml5bYdz2QPYsKp3BheWxvYWTESpcCDMQg5/G+3yGUT/QtbZFxDa5/8iP54PZ5nCiDMNVI6a/Q2wTEIKZ9gJqglk4jr26gxIJAi4NaLQ5TmNv8HGMLcSrZ6fQSAgHCo3NpZ8RAMg6VDkTw+YsfXdM0LeU/qPYxOCprCcek1JgUFAebUGhYapEzbAMwaLw5dbylavAHYrG2jh+ZGV/6DXVT/2jZB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIN8f/dlcv2105f/TzMPykK/JCt/0Yp+gdeCOTFBB0lFgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/alexippo
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id alexippo
+```
